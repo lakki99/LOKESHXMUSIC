@@ -48,7 +48,7 @@ class YouTube:
 
         self.checked = False
 
-        self.cookie_dir = "anony/cookies"
+        self.cookie_dir = "cookies/cookies.txt"
 
         self.warned = False
 
